@@ -1,0 +1,2 @@
+include ':app', ':wnagchongyang0221'
+rootProject.name='My2yue'
